@@ -34,7 +34,6 @@
 		barProgress[1].percentage -= 0.31034;
 	};
 	const buttonClick = (id: number) => {
-		navigator.vibrate(250);
 		barProgress[id].percentage += 7;
 		if (id === 0) buttonMessages[0] = selectRandomArrayItem(messages.gazerah, buttonMessages[0]);
 		if (id === 1) buttonMessages[1] = selectRandomArrayItem(messages.agathixa, buttonMessages[1]);
@@ -110,10 +109,10 @@
 	<div
 		class="grid h-full mt-12 gap-1.5 w-full grid-rows-[auto_auto_1fr_7fr] max-w-[600px] gap-x-1 p-2 grid-cols-2"
 	>
-		<span class="text-center font-semibold"
+		<span class="flex items-center justify-center text-center h-12 font-semibold"
 			>{status[formatPercentage([barProgress[0].percentage, barProgress[1].percentage])[0]]}</span
 		>
-		<span class="text-center font-semibold"
+		<span class="flex items-center justify-center text-center h-12 font-semibold"
 			>{status[formatPercentage([barProgress[0].percentage, barProgress[1].percentage])[1]]}</span
 		>
 

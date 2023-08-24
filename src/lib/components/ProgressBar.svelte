@@ -11,7 +11,8 @@
 	})}
 >
 	<!-- text -->
-	<span class="absolute top-1/2 left-1/2 -translate-y-1/2 -translate-x-1/2"
+	<span
+		class="absolute top-1/2 left-1/2 -translate-y-1/2 text-xs whitespace-nowrap -translate-x-1/2"
 		>Nível de felicidade
 	</span>
 	<div
