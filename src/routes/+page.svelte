@@ -98,7 +98,7 @@
 	>
 	<a
 		target="_blank"
-		href="https://api.whatsapp.com/send/?phone=011946140288&text&type=phone_number&app_absent=0&text=Ei%2C%20amor%21%20%F0%9F%8C%B8%20Sempre%20que%20penso%20em%20n%C3%B3s%20dois%2C%20imagino%20a%20gente%20como%20dois%20macaquinhos%20fofos%20%F0%9F%90%92%F0%9F%92%95%2C%20brincando%20juntos%20nas%20%C3%A1rvores%20do%20amor%20e%20compartilhando%20bananas%20da%20felicidade.%20A%20cada%20dia%20que%20passa%2C%20sinto%20que%20nosso%20la%C3%A7o%20se%20fortalece%2C%20assim%20como%20os%20macaquinhos%20que%20se%20abra%C3%A7am%20nas%20copas%20das%20%C3%A1rvores.%20Obrigado%20por%20ser%20minha%20parceira%20de%20travessuras%20e%20aventuras.%20Te%20amo%20mais%20do%20que%20os%20macaquinhos%20amam%20bananas%21%20%F0%9F%8D%8C%F0%9F%92%96%F0%9F%90%92"
+		href="https://api.whatsapp.com/send/?phone=55011946140288&text&type=phone_number&app_absent=0&text=Ei%2C%20amor%21%20%F0%9F%8C%B8%20Sempre%20que%20penso%20em%20n%C3%B3s%20dois%2C%20imagino%20a%20gente%20como%20dois%20macaquinhos%20fofos%20%F0%9F%90%92%F0%9F%92%95%2C%20brincando%20juntos%20nas%20%C3%A1rvores%20do%20amor%20e%20compartilhando%20bananas%20da%20felicidade.%20A%20cada%20dia%20que%20passa%2C%20sinto%20que%20nosso%20la%C3%A7o%20se%20fortalece%2C%20assim%20como%20os%20macaquinhos%20que%20se%20abra%C3%A7am%20nas%20copas%20das%20%C3%A1rvores.%20Obrigado%20por%20ser%20minha%20parceira%20de%20travessuras%20e%20aventuras.%20Te%20amo%20mais%20do%20que%20os%20macaquinhos%20amam%20bananas%21%20%F0%9F%8D%8C%F0%9F%92%96%F0%9F%90%92"
 		class={classNames('text-[50px] absolute top-12 md:top-20 leading-[40px]', {
 			hidden: !messageActivated
 		})}
