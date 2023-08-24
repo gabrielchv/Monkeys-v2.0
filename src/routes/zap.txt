@@ -1,0 +1,1 @@
+https://api.whatsapp.com/send/?phone=11946140288&text&type=phone_number&app_absent=0&text=Te%20amo%20amorzinho%20%E2%9D%A4%EF%B8%8F
